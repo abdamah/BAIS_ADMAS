@@ -7,7 +7,7 @@ int main()
     int b;
     int choice;
 
-    do
+    while (choice != 3)
     {
         // cout <<"1.Add " <<endl;
         // cout <<"2.Sub " <<endl;
@@ -43,7 +43,7 @@ int main()
         default:
             cout << "Invalid choice" << endl;
         }
-    } while (choice == 3);
+    }
 
     return 0;
 }
