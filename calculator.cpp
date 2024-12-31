@@ -12,7 +12,7 @@ int main()
         // cout <<"1.Add " <<endl;
         // cout <<"2.Sub " <<endl;
         // cout <<"3.Exit " <<endl;
-        cout << "1.Add\n 2.Sub\n 3.Exit\n";
+        cout << "1.Add\n2.Sub\n3.Exit\n";
 
         cout << "Enter your choice: ";
 
